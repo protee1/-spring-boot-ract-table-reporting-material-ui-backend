@@ -42,7 +42,7 @@ import net.sf.jasperreports.export.SimpleXlsExporterConfiguration;
 import net.sf.jasperreports.export.SimpleXlsReportConfiguration;
 import net.sf.jasperreports.export.SimpleXlsxReportConfiguration;
 import net.sf.jasperreports.export.XlsxReportConfiguration;
-@CrossOrigin({"http://localhost:3000","http://localhost:5000"})
+@CrossOrigin({"http://localhost:3001","http://localhost:5000"})
 @RestController
 @RequestMapping("/employees")
 public class EmployeeController {
